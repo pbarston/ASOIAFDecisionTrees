@@ -7,5 +7,5 @@ Can we use decision trees to predict survival in A Song of Ice and Fire?
 
 Follow along on my blog: https://peterbarston.blogspot.com/2021/08/game-of-thrones-survival-analysis.html
 
-Check out the repository for the full code as well as just the pre-processing code. 
+Check out the repository for the full code. 
 
