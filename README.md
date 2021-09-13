@@ -11,5 +11,7 @@ https://peterbarston.blogspot.com/2021/08/game-of-thrones-survival-analysis.html
 
 https://peterbarston.blogspot.com/2021/08/game-of-thrones-survival-analysis_31.html
 
+https://peterbarston.blogspot.com/2021/09/game-of-thrones-survival-analysis.html
+
 Check out the repository for the full code. 
 
